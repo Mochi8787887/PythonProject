@@ -1,5 +1,0 @@
-練習實作網路上各式教學專案
-
-參考網站:
-https://steam.oxxostudio.tw/category/python/example/line-bot.html
-(Copyright 2021-2023 | OXXO.STUDIO)
